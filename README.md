@@ -22,7 +22,7 @@
   ##
  
 <div> 
- <a href= "https://www.tiktok.com/@m4ndy.rs" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+ <a href= "https://www.tiktok.com/@m4ndyrs" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
   target="_blank"></a>
    <a href="https://steamcommunity.com/profiles/76561199156697757"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
  <a href="https://www.youtube.com/channel/UC0Y3BrwyTAZ42Sct6C6UeAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
